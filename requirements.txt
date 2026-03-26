@@ -1,0 +1,9 @@
+edge-tts
+anthropic
+google-api-python-client
+google-auth-oauthlib
+requests
+feedparser
+pytrends
+Pillow
+moviepy
